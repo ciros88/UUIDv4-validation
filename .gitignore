@@ -1,4 +1,4 @@
-**/src/main/**/UUIDv4App.java
+bin/
 
 HELP.md
 target/
@@ -33,4 +33,3 @@ build/
 
 ### VS Code ###
 .vscode/
-/pom.xml
